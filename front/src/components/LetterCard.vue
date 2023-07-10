@@ -105,4 +105,13 @@
 .letter-cls-4 {
   fill: #fff1d2;
 }
+
+
+.test {
+  /* background: url('@/assets/flowerback.png'); */
+  /* background-size: cover; */
+}
+.main{
+  /* background-color: #fffcf4; */
+}
 </style>
